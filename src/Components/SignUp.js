@@ -46,7 +46,7 @@ export class SignUp extends Component {
                 </div>
                 <div className="mui-textfield mui-textfield--float-label">
                     <input type="email" name="email" required onChange={this.changeInputHandler}></input>
-                    <label>Required Email Address</label>
+                    <label>Required Email Addss</label>
                 </div>
                 <div className="mui-textfield mui-textfield--float-label">
                     <textarea  name="textarea" onChange={this.changeInputHandler}></textarea>
