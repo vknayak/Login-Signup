@@ -37,7 +37,8 @@ export class SignUp extends Component {
                 <div className="mui-textfield">
                     <input type="text" name="username" required onChange={this.changeInputHandler}></input>
 
-                    <label>Here  changed </label>
+                    
+                    <label>Username</label>
 
                 </div>
                 <div className="mui-textfield">
